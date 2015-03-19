@@ -11,5 +11,8 @@ private static void dispalyGreeting()
 {
 	System.out.println("Hello Happy Seles People");
 	System.out.println("This App Shows Seles data");
+	
+	System.out.println("Test 1");
+	
 }
 }
