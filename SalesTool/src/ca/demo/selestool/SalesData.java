@@ -5,9 +5,6 @@ public class SalesData {
 	public void display()
 	{
 		System.out.println("1000  Imlpement data display");
-		System.out.println("1000  Imlpement data display");
-		System.out.println("1000  Imlpement data display");
-		System.out.println("1000  Imlpement data display");
 	}
 
 }
